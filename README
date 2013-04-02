@@ -1,0 +1,7 @@
+This client lib is on the way to pasture.
+Look for the new one at https://github.com/cinayakoshka/fluid-obj-c
+
+thread-safe asynchronicity and simplicity justified the rewrite.  I
+hope it will be done soon.  It's a spare-time only project, but, at
+least I have some level of momentum, thanks to a vacation.
+
